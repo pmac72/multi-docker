@@ -24,7 +24,7 @@
     },
     {
       "name": "nginx",
-      "image": "pmacodugall/multi-nginx",
+      "image": "pmacdougall/multi-nginx",
       "hostname": "nginx",
       "essential": true,
       "portMappings": [
